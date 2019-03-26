@@ -1,12 +1,3 @@
-"""
-Write a script that takes a list of words as an input and generates a new list of words using
-exactly the same letters and the same count of space symbols. The new list must consist of real
-words from English dictionary and cannot be the same words in different order. Except two letter words.
-
-If there are many solutions, you should sort possible outputs by their uniqueness compared to input phrase.
-
-IF solutions can handle 400,000+ words dictionary and 4+ words in phrase (15+ characters) is a huge plus.
-"""
 from itertools import permutations, product, chain
 
 
