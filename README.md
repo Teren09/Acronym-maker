@@ -2,7 +2,7 @@
 Script analyzes the sentence you enter, finds words that consist of same letters in dictionary file, where 370k words are present.
 Then it shows every possible variation of the entered sentence.
 
-Say, we enter "This is an example", this gonna be the output:
+Say, we enter "This is an example", then this is gonna be the output:
 
 ```
 shit an exempla is
